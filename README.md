@@ -91,5 +91,3 @@ El objetivo de este programa es practicar conceptos básicos de programación en
 * Validación de datos
 * Operaciones matemáticas
 * Estructuras de repetición
-
-Si quieres, Natalia, también puedo hacerte una **versión más corta del README (la que normalmente piden los profesores)** o una **versión más profesional para subirla a GitHub**.
